@@ -1,1 +1,1 @@
-select 1 from dualâ
+select 1 from dual
