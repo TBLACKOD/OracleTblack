@@ -3,6 +3,6 @@ CREATE OR REPLACE PROCEDURE TBLACK.TEST
   IVAL IN VARCHAR2 
 ) AS 
 BEGIN
-  dbms_output.put_line(ival||'1111');
+  dbms_output.put_line(ival||'11111');
 END TEST;
 /
