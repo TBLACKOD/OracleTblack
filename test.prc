@@ -1,0 +1,8 @@
+CREATE OR REPLACE PROCEDURE TBLACK.TEST 
+(
+  IVAL IN VARCHAR2 
+) AS 
+BEGIN
+  dbms_output.put_line(ival);
+END TEST;
+/
