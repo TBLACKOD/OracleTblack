@@ -20,7 +20,7 @@ tmpVar NUMBER;
 
 ******************************************************************************/
 BEGIN
-   tmpVar := 1;
+   tmpVar := 3;
    RETURN tmpVar;
    EXCEPTION
      WHEN NO_DATA_FOUND THEN

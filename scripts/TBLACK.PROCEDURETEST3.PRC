@@ -1,6 +1,6 @@
 CREATE OR REPLACE PROCEDURE TBLACK."PROCEDURETEST3" AS 
  vnum number;
 BEGIN
-  select 5 into vnum from dual;
+  11111
 END PROCEDURETEST3;
 /
