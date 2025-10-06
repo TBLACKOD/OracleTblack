@@ -1,8 +1,0 @@
-CREATE OR REPLACE
-PROCEDURE TEST5
-(
-  IVAL IN VARCHAR2
-) AS
-BEGIN
-  dbms_output.put_line(ival||'5');
-END TEST5;
